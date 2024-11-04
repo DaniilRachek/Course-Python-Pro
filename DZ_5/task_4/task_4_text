@@ -1,0 +1,11 @@
+INFO: Starting the system at 10:00 AM
+ERROR: Disk not found
+INFO: Performing system check
+WARNING: Low disk space
+ERROR: Network connection lost
+INFO: User logged in
+INFO: Backup completed successfully
+ERROR: Memory limit exceeded
+INFO: System shutdown at 05:00 PM
+ERROR: Disk read failure detected
+INFO: System restarted successfully

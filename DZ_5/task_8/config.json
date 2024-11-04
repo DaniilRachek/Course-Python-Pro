@@ -1,0 +1,1 @@
+{"setting1": "initial_value", "setting2": 123, "nested": {"key": "initial_nested_value"}, "new_setting": "new_value"}
